@@ -2,9 +2,9 @@
 
 <img src="https://img.shields.io/badge/AI-Learning_Resources-blue?style=for-the-badge&logo=openai&logoColor=white" alt="AI Learning Resources"/>
 
-# Free AI Learning Resources
+# Free AI Learning Resources X
 
-### Your open-source gateway to mastering AI — completely free, forever.
+### Your open-source gateway to mastering AI completely free, forever.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
