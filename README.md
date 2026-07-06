@@ -218,3 +218,4 @@ If this helped you learn, please consider:
 *Built with ❤️ by the open-source community.*
 
 </div>
+- [FreeAIStack - 14 free AI tools including resume optimizer, email assistant, content generator, image generator, video script generator. No credit card needed.](https://aifreeaistack.com)
